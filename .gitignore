@@ -1,0 +1,4 @@
+.trace.log
+.claude-plugin/types/
+hooks/*.js
+tests/*.js

@@ -1,0 +1,13 @@
+{
+  "name": "jj-local",
+  "owner": {
+    "name": "JJ McCauley"
+  },
+  "plugins": [
+    {
+      "name": "voice-grill",
+      "source": "./"
+    }
+  ],
+  "description": "JJ's local Claude Code plugins"
+}

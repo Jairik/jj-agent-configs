@@ -1,0 +1,9 @@
+{
+  "name": "voice-grill",
+  "version": "0.2.0",
+  "description": "Hands-free grilling: questions read aloud one at a time, answers spoken and sent with a key press or a phrase",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "JJ McCauley"
+  }
+}
